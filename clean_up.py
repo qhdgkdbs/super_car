@@ -1,0 +1,11 @@
+import RPi.GPIO as GPIO
+
+PIN1 = 17
+PIN2 = 22
+PIN3 = 27
+
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(PIN1, GPIO.OUT)
+GPIO.setup(PIN2, GPIO.OUT)
+GPIO.setup(PIN3, GPIO.OUT)
+GPIO.cleanup()
