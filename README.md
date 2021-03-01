@@ -1,4 +1,4 @@
-<span style = "font-size : 40px" title="hehehe">기초 of 기초 차선 검출</span>
+<h1>기초 of 기초 차선 검출</h1>
 
 <br />
 <br />
